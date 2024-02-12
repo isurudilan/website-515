@@ -3,8 +3,12 @@ project:
   output-dir: docs
   
 website: 
-  title: "Welcome to Quarto"
+  title: "STAT 515 - Website"
   navbar: 
     left: 
-      - about.qmd
+      - index.qmd
       - Introduction.qmd
+      
+format: 
+  html: 
+    theme: cosmo

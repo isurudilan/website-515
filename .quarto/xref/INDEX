@@ -5,5 +5,11 @@
   "Introduction.qmd": {
     "Introduction.html": "2b8cd0bd",
     "Introduction.tex": "4b8ab103"
+  },
+  "index.qmd": {
+    "index.html": "d275db29"
+  },
+  "hello.qmd": {
+    "hello.html": "78dd8b65"
   }
 }
