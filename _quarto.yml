@@ -8,6 +8,7 @@ website:
     left: 
       - index.qmd
       - Introduction.qmd
+      - about.qmd
       
 format: 
   html: 
